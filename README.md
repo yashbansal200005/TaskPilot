@@ -68,7 +68,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/taskpilot.git
+   git clone https://github.com/yashbansal200005/taskpilot.git
    cd taskpilot
    ```
 
