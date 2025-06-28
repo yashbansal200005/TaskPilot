@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c11da20-4237-4de6-b977-cf6073fcd1af)# TaskPilot - Task Management System
+# TaskPilot - Task Management System
 *Streamline your task assignments and boost productivity*
 
 ## Table of Contents
